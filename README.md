@@ -1,110 +1,25 @@
-<h1 align="center">Hi 👋, I'm Egemen Goncu</h1>
-<h3 align="center">Backend Developer | Electronics & Computer Engineer | Robotics Enthusiast</h3>
+# Egemen Göncü
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gx4004&label=Profile%20Views&color=0e75b6&style=flat" alt="gx4004" />
-</p>
+Backend developer and Electronics & Computer Engineering student in Wrocław, Poland.
 
-## 🛠 About Me
+Most of my time goes into building REST APIs and CRUD backends with ASP.NET Core, Entity Framework Core and MySQL — order systems, student and event trackers, e-commerce admin panels, that sort of thing. I'm still early in my career, so I learn mostly by shipping small projects and then breaking them on purpose.
 
-- 🎓 **Electronics & Computer Engineering** | Wroclaw University of Science and Technology  
-- 🔭 **Currently Working On:** Robotics, Embedded Systems, and Backend Development  
-- 🌱 **Currently Learning:** AI & Machine Learning, Spring Boot, Node.js  
-- 🛠 **Tech Enthusiast:** Passionate about **Backend Development**, **Embedded Systems**, and **Autonomous Robotics**  
-- 💡 **Innovator:** Building solutions in **Gaming APIs**, **IoT Systems**, and **AI-powered Robotics**  
-- 💬 **Ask me about:** C++, Python, Node.js, C#, Microcontrollers (Arduino, STM32), REST APIs  
-- 📫 **How to reach me:** goncuegemen@gmail.com  
+Lately I've been picking up TypeScript and doing a bit of game dev on the side. And since my degree is in electronics, I also spend time with C/C++ and microcontrollers (Arduino, STM32) for coursework.
 
----
+### A few things I've built
 
-## 🚀 Tech Stack & Tools
+- **[OrderManagementSystem](https://github.com/gx4004/OrderManagementSystem)** — .NET Core API for managing customer orders, backed by MySQL and documented with Swagger.
+- **[student-management-system-api](https://github.com/gx4004/student-management-system-api)** — ASP.NET Core Web API with a small HTML/JS frontend; full CRUD plus client-side validation.
+- **[MySql-EFCore-Practice](https://github.com/gx4004/MySql-EFCore-Practice)** — RESTful APIs over MySQL with EF Core, managing products and sellers.
+- **[eCommerce-Admin](https://github.com/gx4004/eCommerce-Admin)** — MVC e-commerce app with user authentication and an admin panel.
+- **[coral-drift](https://github.com/gx4004/coral-drift)** — a small underwater endless-runner game built with JavaFX.
+- **[eximtrade](https://github.com/gx4004/eximtrade)** — multilingual B2B static site for an international trade business.
 
-### **Programming Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks)
+### Tech I reach for
 
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6F00?style=flat)
+`C#` · `.NET` (ASP.NET Core, EF Core) · `SQL` / `MySQL` · `Python` · `TypeScript` · `Java` · `Git` · `Docker`
 
-### **Embedded Systems & Robotics**
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat)
-![IoT](https://img.shields.io/badge/-IoT-0081CB?style=flat&logo=internetofthings)
-![Robotics](https://img.shields.io/badge/-Robotics-FF6F00?style=flat)
+### Reach me
 
-### **Electronics & PCB Design**
-![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-8B0000?style=flat&logo=altiumdesigner&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-AA0000?style=flat&logo=autodesk)
-
-### **Tools & DevOps**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gx4004&show_icons=true&theme=radical" alt="gx4004" />
-</p>
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gx4004&theme=dark" alt="gx4004" />
-</p>
-
-### 🎯 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gx4004&layout=compact&theme=dark" alt="gx4004" />
-</p>
-
----
-
-## 🏆 Achievements & Certifications
-- 🏅 **Cisco CCNA Certification**
-- 🏅 **PCB Design Training (Altium Designer)**
-- 🏅 **Backend Development - SiliconMade Academy**
-- 🏅 **Robotics & Embedded Systems Workshop Participant**
-
----
-
-## 📚 Featured Projects
-
-### 🚀 **Obstacle Avoidance Robot**
-🔹 Built an **autonomous robot** using **Arduino & C++**  
-🔹 Integrated **ultrasonic sensors** for real-time obstacle detection  
-
-### 🎙 **AI Voice Assistant**
-🔹 Developed a **Python-powered AI assistant** for voice-controlled tasks  
-🔹 Integrated with **Microcontrollers (Arduino & STM32)**  
-
-### 🎮 **Gaming API (Node.js, REST APIs)**
-🔹 Designed and developed a **backend system** for **game leaderboards & rewards**  
-
-### 🖥 **IoT PCB Design**
-🔹 Created a **custom PCB for IoT devices** using **Altium Designer**  
-🔹 Focused on **power optimization & circuit efficiency**  
-
----
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/egemen-goncu-7b0262264)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gx4004)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:goncuegemen@gmail.com)
-
----
-
-This is now **fully optimized** with:
-✅ **Altium Designer**  
-✅ **MATLAB**  
-✅ **Arduino**  
-✅ **C#**  
+- Email: goncuegemen@gmail.com
+- LinkedIn: [egemen-goncu](https://linkedin.com/in/egemen-goncu-7b0262264)
